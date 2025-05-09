@@ -1,4 +1,4 @@
-package com.nicolas.model;
+package com.nicolas.domain.model;
 
 import java.util.List;
 
